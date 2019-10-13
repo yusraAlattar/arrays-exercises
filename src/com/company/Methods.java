@@ -6,6 +6,7 @@ public class Methods {
 
 
         return Math.min(Math.min(x, y), z);
+        
 
     }
 }
