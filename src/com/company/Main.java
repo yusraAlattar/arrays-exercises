@@ -139,7 +139,7 @@ Arrays.sort(myArray);
             myList.add(ahgf);
             myList.add(myScan.nextLine());
             myList.add(myScan.nextLine());
-            myList.add(myScan.nextLine());
+            myList.add(myScan.nextLine());   
             myList.add(myScan.nextLine());
     }
 }
